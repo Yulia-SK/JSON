@@ -12,7 +12,7 @@
                  "capital": "Tokyo",
 		 "currency": "Yen"
 	 },
-	 favourite_book": {
+	 "favourite_book": {
                  "title": "To kill a Mockingbird",
                  "author": "Harper Lee"
 	 }
