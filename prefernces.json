@@ -1,0 +1,22 @@
+ {
+	"favourite_meal": {
+		"name": "Spaghetti Carbonara",
+		"description": "Pasta with a creamy sauce made from eggs, parmesan cheese, bacon."
+	},
+         "favourite_film": {
+		 "title": "The Shawshank Redemption",
+		 "year": 1994
+	 },
+	 "favourite_country": {
+                 "name": "Japan",
+                 "capital": "Tokyo",
+		 "currency": "Yen"
+	 },
+	 favourite_book": {
+                 "title": "To kill a Mockingbird",
+                 "author": "Harper Lee"
+	 }
+ } 
+
+
+
